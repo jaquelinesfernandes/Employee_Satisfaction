@@ -1,0 +1,9 @@
+"mostre-me uma análise da distância de casa por função e rotatividade" ou "compare a renda média mensal por educação e rotatividade".
+
+
+- Dicionário de Dados
+- Análise Exploratoria
+- Turnover ?
+- Variaveis x Variável Target/Rotatividade
+- Comparativos entre as variáveis: Distancia x rotatividade, Renda x Educação x Rotatividade.
+- Outros projetos para mesmo dataset?
